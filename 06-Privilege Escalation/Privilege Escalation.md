@@ -431,3 +431,9 @@ After obtaining elevated privileges, the engagement can continue with:
 - Misconfigurations often provide escalation opportunities.
 - Administrative privileges significantly increase attacker capabilities.
 - Successful privilege escalation enables later stages of the Red Team engagement.
+
+## References
+
+- CRTA Course Material
+- Active Directory Lab Exercises
+
