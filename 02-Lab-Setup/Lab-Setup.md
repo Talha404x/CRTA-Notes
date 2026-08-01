@@ -256,3 +256,8 @@ The lab setup is considered complete after verifying that:
 - The Web Server bridges both network segments.
 - Active Directory forms the foundation for later Red Team operations.
 - Proper lab configuration is essential before beginning exploitation activities.
+
+## References
+
+- CRTA Course Material
+- Active Directory Lab Exercises
