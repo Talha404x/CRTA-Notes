@@ -2,22 +2,41 @@
 
 This repository contains my documented notes and practical observations from the Certified Red Team Analyst (CRTA) learning journey.
 
-The purpose of this repository is to organize concepts, attack techniques, Active Directory fundamentals, lab exercises, and Red Team methodologies into a structured knowledge base.
+The purpose of this repository is to organize concepts, Active Directory fundamentals, Red Team methodologies, and practical lab exercises into a structured knowledge base.
 
 > These notes are written for educational purposes and are based on hands-on lab practice.
 
+---
+
 ## Repository Structure
 
-- Introduction to Red Teaming
-- Red Team Lab Setup
-- Active Directory
-- Enumeration
-- Initial Access
-- Privilege Escalation
-- Lateral Movement
-- Persistence
-- Post Exploitation
+CRTA-Notes
+│
+├── README.md
+│
+├── Introduction
+│
+├── Lab-Setup
+│
+├── External-Operations
+│
+├── Network-Pivoting
+│
+├── Active-Directory
+│
+├── Privilege-Escalation
+│
+├── Credential-Access
+│
+├── Lateral-Movement
+│
+├── Kerberos-Attacks
+│   ├── Kerberoasting.md
+│   ├── Silver-Ticket.md
+│   └── Golden-Ticket.md
+│
+└── Persistence
 
 ## Disclaimer
 
-These notes are intended for educational purposes only and should only be applied in authorized environments.
+These notes are intended solely for educational purposes and should only be used in authorized lab or testing environments. The content is based on the Certified Red Team Analyst (CRTA) course and personal hands-on practice conducted in a controlled environment.
