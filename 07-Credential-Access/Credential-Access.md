@@ -301,3 +301,9 @@ During Credential Access:
 - Stored credentials and Active Directory accounts are valuable targets.
 - Valid credentials enable access to additional systems.
 - Credential Access prepares the environment for Lateral Movement and Kerberos-based attacks.
+
+## References
+
+- CRTA Course Material
+- Active Directory Lab Exercises
+
