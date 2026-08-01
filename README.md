@@ -8,16 +8,16 @@ The purpose of this repository is to organize concepts, attack techniques, Activ
 
 ## Repository Structure
 
-- 01-Introduction 
-- 02-Lab Setup
-- 03-External-Operations
-- 04-Network-Pivoting
-- 05-Active Directory
-- 06-Privilege Escalation
-- 07-Credential-Access
-- 08-Lateral Movement
-- 09-Kerberos-Attacks
-- 10-Persistence 
+01-Introduction 
+02-Lab Setup
+03-External-Operations
+04-Network-Pivoting
+05-Active Directory
+06-Privilege Escalation
+07-Credential-Access
+08-Lateral Movement
+09-Kerberos-Attacks
+10-Persistence 
 
 ## Disclaimer
 
