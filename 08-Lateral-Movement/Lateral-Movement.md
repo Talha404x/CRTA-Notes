@@ -280,3 +280,9 @@ The following techniques are covered separately within this repository:
 - Administrative shares and PowerShell Remoting provide methods for remote administration.
 - Each newly compromised system should be enumerated before proceeding further.
 - Lateral Movement prepares the environment for Kerberos attacks and persistence.
+
+## References
+
+- CRTA Course Material
+- Active Directory Lab Exercises
+
