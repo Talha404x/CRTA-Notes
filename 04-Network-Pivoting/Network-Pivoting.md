@@ -247,3 +247,9 @@ Used after confirming that Proxychains is functioning correctly.
 - SSH pivoting requires valid credentials.
 - Proxychains forwards supported applications through a SOCKS proxy.
 - Successful pivoting prepares the environment for internal enumeration and lateral movement.
+
+## References
+
+- CRTA Course Material
+- Active Directory Lab Exercises
+
