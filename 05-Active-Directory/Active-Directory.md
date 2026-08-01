@@ -357,3 +357,9 @@ Retrieves the Security Identifier (SID) of the current domain.
 - Kerberos uses TGT and TGS tickets instead of transmitting passwords.
 - Authorization is performed using Security Tokens and Access Control Lists.
 - PowerView is used to enumerate domain information after obtaining access to a domain-joined system.
+
+## References
+
+- CRTA Course Material
+- Active Directory Lab Exercises
+
