@@ -8,17 +8,18 @@ The purpose of this repository is to organize concepts, attack techniques, Activ
 
 ## Repository Structure
 
--Introduction 
--Lab Setup
--External-Operations
--Network-Pivoting
--Active Directory
--Privilege Escalation
--Credential-Access
--Lateral Movement
--Kerberos-Attacks
--Persistence 
+- Introduction
+- Lab Setup
+- External-Operations
+- Network-Pivoting
+- Active Directory
+- Privilege Escalation
+- Credential-Access
+- Lateral Movement
+- Kerberos-Attacks
+- Persistence
+
 
 ## Disclaimer
 
-These notes are intended for educational purposes only and should only be applied in authorized environments.
+These notes are intended for educational purposes only and should only be applied in authorized environments. 
