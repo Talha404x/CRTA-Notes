@@ -10,13 +10,13 @@ The purpose of this repository is to organize concepts, attack techniques, Activ
 
 - Introduction
 - Lab Setup
-- External-Operations
-- Network-Pivoting
+- External Operations
+- Network Pivoting
 - Active Directory
 - Privilege Escalation
-- Credential-Access
+- Credential Access
 - Lateral Movement
-- Kerberos-Attacks
+- Kerberos Attacks
 - Persistence
 
 
