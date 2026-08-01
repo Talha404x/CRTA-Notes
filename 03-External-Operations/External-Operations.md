@@ -222,3 +222,9 @@ Removing footprints helps reduce traces of attacker activity and complicates for
 - Enumeration collects detailed information about discovered services.
 - Initial access is achieved by exploiting identified weaknesses.
 - Successful compromise enables later phases such as privilege escalation, credential access, and lateral movement.
+
+## References
+
+- CRTA Course Material
+- Active Directory Lab Exercises
+
