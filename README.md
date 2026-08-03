@@ -1,4 +1,4 @@
-# CRTA Notes
+# CRTA Documentaton
 
 This repository contains my documented notes and practical observations from the Certified Red Team Analyst (CRTA) learning journey.
 
